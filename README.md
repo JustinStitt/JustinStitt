@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Justin Stitt 🙋‍♂️🌎 </h1>
-<h3 align="center">Budding Programmer and <em>Certified</em> Lazy Problem Solver</h3>
+<h3 align="center">Budding Programmer <em>with</em> interests in AI and Problem-Solving</h3>
 
 <p align="center">
   <img width="900" height="300" src="/media/githubprofilegif1.gif">
