@@ -33,7 +33,7 @@
 ✔  Some of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
 
 📫 You can reach me at **jstitt007@gmail.com**
-<p>
+<p align="center">
 <img width="310" height="250" src="/media/personalpic.png">
-<img width="510" height="350" src="https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight" style="border-radius:4px;"> 
+<img width="510" height="225" src="https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight" style="border-radius:40px;"> 
 </p>
