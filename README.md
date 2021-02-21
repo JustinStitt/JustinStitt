@@ -9,6 +9,8 @@
   
 <h3> I've worked with... <h3>
 
+<img src="/media/cpplangbadge.png" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/julialangbadge.png" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/unity.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/react.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">
