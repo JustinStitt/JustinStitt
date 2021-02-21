@@ -35,5 +35,5 @@
 📫 You can reach me at **jstitt007@gmail.com**
 <p>
 <img width="310" height="250" src="/media/personalpic.png">
-<img width="510" height="350" src="https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight" style="margin:4px"> 
+<img width="510" height="350" src="https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight" style="border-radius:4px;"> 
 </p>
