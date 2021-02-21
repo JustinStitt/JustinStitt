@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Heyo, I'm Justin Stitt 🙋‍♂️ </h1>
+<h3 align="center">Budding Programmer and *Certified* Lazy Problem Solver</h3>
 
-<!--
-**JustinStitt/JustinStitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image]()
 
-Here are some ideas to get you started:
+<p align="left">
+  
+<h3> I work with... <h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+- ✔💻 All of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
+- 📫 You can reach me at **jstitt007@gmail.com**
+
+![Justin Stitt's github **stats**](https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight)
+
