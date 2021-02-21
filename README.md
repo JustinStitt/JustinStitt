@@ -1,4 +1,4 @@
-<h1 align="center">Heyo, I'm Justin Stitt 🙋‍♂️ </h1>
+<h1 align="center">Hello World, I'm Justin Stitt 🙋‍♂️🌎 </h1>
 <h3 align="center">Budding Programmer and <em>Certified</em> Lazy Problem Solver</h3>
 
 <p align="center">
@@ -7,8 +7,24 @@
 
 <p align="left">
   
-<h3> I work with... <h3>
+<h3> I've worked with... <h3>
 
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/unity.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/react.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/python.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/js.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/java.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/csharp.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/go.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/ai.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/datascience.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/gamedev.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/web.svg" alt="html" style="vertical-align:top; margin:4px">
+
+
+
+  
 </p>
 
 - ✔💻 All of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
