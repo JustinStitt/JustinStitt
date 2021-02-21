@@ -30,7 +30,7 @@
 
 </p>
 
-✔💻 Some of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
+✔  Some of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
 
 📫 You can reach me at **jstitt007@gmail.com**
 
