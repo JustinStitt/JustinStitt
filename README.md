@@ -31,6 +31,7 @@
 </p>
 
 ✔💻 Some of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
+
 📫 You can reach me at **jstitt007@gmail.com**
 
 ![Justin Stitt's github **stats**](https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight)
