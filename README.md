@@ -1,7 +1,9 @@
 <h1 align="center">Heyo, I'm Justin Stitt 🙋‍♂️ </h1>
-<h3 align="center">Budding Programmer and *Certified* Lazy Problem Solver</h3>
+<h3 align="center">Budding Programmer and <em>Certified</em> Lazy Problem Solver</h3>
 
-![Gif](/media/githubprofilegif1.gif)
+<p align="center">
+  <img width="900" height="300" src="/media/githubprofilegif1.gif">
+</p>
 
 <p align="left">
   
