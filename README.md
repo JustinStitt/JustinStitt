@@ -1,7 +1,7 @@
 <h1 align="center">Heyo, I'm Justin Stitt 🙋‍♂️ </h1>
 <h3 align="center">Budding Programmer and *Certified* Lazy Problem Solver</h3>
 
-![image]()
+![Gif](/media/githubprofilegif1.gif)
 
 <p align="left">
   
