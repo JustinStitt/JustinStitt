@@ -26,16 +26,16 @@
 <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/gamedev.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/unity.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/datascience.svg" alt="html" style="vertical-align:top; margin:4px">
-
-
 </p>
+
+<p align="center">
+<img width="510" height="225" src="https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
+<img width="510" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinStitt&theme=tokyonight&layout=compact" style="border-radius:40px;">
+</p>
+
 
 ✔  Some of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
 
+
 📫 You can reach me at **jstitt007@gmail.com**
-<p align="center">
 <img width="310" height="250" src="/media/personalpic.png">
-<img width="510" height="225" src="https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
-</p>
-<img width="510" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinStitt&theme=tokyonight&layout=compact" style="border-radius:40px;">
-  
