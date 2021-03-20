@@ -11,21 +11,21 @@
 
 <img src="/media/cpplangbadge.png" alt="html" style="vertical-align:top; margin:4px">
 <img src="/media/julialangbadge.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/python.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/csharp.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/go.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/js.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/java.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/ai.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/python.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/csharp.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/go.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/js.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/java.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/ai.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="/media/openaibadge.png" alt="html" style="vertical-align:top; margin:4px">
 <img src="/media/tfbadge.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/react.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/react.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="/media/pytorchbadge.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/web.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/gamedev.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/unity.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/datascience.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/web.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/gamedev.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/unity.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="/media/datascience.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center">
