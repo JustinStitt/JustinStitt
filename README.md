@@ -39,4 +39,4 @@
 
 📫 You can reach me at **jstitt007@gmail.com**
 
-<img width="310" height="250" src="/media/personalpic.png">
+<!--><img width="310" height="250" src="/media/personalpic.png"></!-->
