@@ -33,10 +33,18 @@
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=justinstitt&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinStitt&theme=tokyonight&layout=compact" style="border-radius:40px;">
 </p>
-
-
-✔  Some of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
-
-📄 Here's my [resumé](./media/resume.pdf)
-
-📫 You can reach me at **jstitt007@gmail.com**
+  
+<div style="margin-bottom: 10px"> 
+  
+  <!--Projects-->
+  <a>✔  Some of my projects are available </a>
+  <a href="https://github.com/JustinStitt?tab=repositories"> here</a>
+  
+  <!--Resume-->
+  <a>📄 Here's my </a>
+  <a href="./media/resume.pdf">resumé</a>
+  <img src="https://img.shields.io/badge/Updated-8--12--21-lightgrey?logoColor=red">
+  
+  <!--Email-->
+  <a>📫 You can reach me at **jstitt007@gmail.com**</a>
+</div> 
