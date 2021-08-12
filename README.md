@@ -1,3 +1,4 @@
+
 <h1 align="center">Hello World, I'm Justin Stitt 🙋‍♂️🌎 </h1>
 <h3 align="center">Budding Programmer <em>with</em> interests in AI and Problem-Solving</h3>
 
@@ -8,24 +9,24 @@
 <p align="left">
   
 <h3> I've worked with... <h3>
-
-<img src="/media/cpplangbadge.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/julialangbadge.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/python.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/csharp.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/go.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/js.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/java.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/ai.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/openaibadge.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/tfbadge.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/react.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/pytorchbadge.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/web.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/gamedev.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/unity.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="/media/datascience.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-OpenAI-grey?style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Web-green?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Game Dev-purple?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-SQL-red?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Data Science-yellow?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center">
