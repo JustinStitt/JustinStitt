@@ -37,5 +37,6 @@
 
 ✔  Some of my projects are available  [here](https://github.com/JustinStitt?tab=repositories)
 
+📄 Here's my [resumé](./media/resume.pdf)
 
 📫 You can reach me at **jstitt007@gmail.com**
