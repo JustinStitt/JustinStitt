@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Svelte-red?style=for-the-badge&logoColor=black&logo=Svelte" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/-OpenAI-grey?style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-OpenAI-grey?style=for-the-badge&logoColor=white&logo=openai" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
