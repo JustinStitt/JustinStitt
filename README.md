@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Svelte-red?style=for-the-badge&logoColor=black&logo=Svelte" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/java-orange?logo=javascript&style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-OpenAI-grey?style=for-the-badge&logoColor=white&logo=openai" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
@@ -24,10 +24,12 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Web-green?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Linux-yellow?logo=linux&style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Game Dev-purple?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/-SQL-red?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-SQL-red?logo=sql&style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Data Science-yellow?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-LLVM-green?logo=llvm&style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center">
