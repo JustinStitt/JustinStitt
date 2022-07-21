@@ -47,7 +47,7 @@
   <!--Resume-->
   <a>📄 Here's my </a>
   <a href="./media/resume.pdf">resumé</a>
-  <img src="https://img.shields.io/badge/Updated-8--12--21-lightgrey?logoColor=red">
+  <img src="https://img.shields.io/badge/Updated-7--21--22-lightgrey?logoColor=red">
   
   <!--Email-->
   <a>📫 You can reach me at **jstitt007@gmail.com**</a>
