@@ -46,7 +46,7 @@
   
   <!--Resume-->
   <a>📄 Here's my </a>
-  <a href="./media/resume.pdf">resumé</a>
+  <a href="https://github.com/JustinStitt/resume/blob/master/master_resume.pdf">resumé</a>
   <img src="https://img.shields.io/badge/Updated-7--21--22-lightgrey?logoColor=red">
   
   <!--Email-->
