@@ -15,10 +15,12 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/C-turquoise?logo=C&style=for-the-badge&logo=go&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="html" style="vertical-align:top; margin:4px">  
 <img src="https://img.shields.io/badge/-Svelte-red?style=for-the-badge&logoColor=black&logo=Svelte" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/java-orange?logo=javascript&style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-OpenAI-grey?style=for-the-badge&logoColor=white&logo=openai" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
